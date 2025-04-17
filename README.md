@@ -1,4 +1,4 @@
-# Modern Portfolio
+# Portfolio
 
 ![Portfolio Preview](screenshot.jpg)
 
