@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+
+# Ignore common PHP files/folders
+/vendor/
+/node_modules/
+/.env
+*.log
+
+# IDE files
+.vscode/
+.idea/
